@@ -1,13 +1,15 @@
 ###  Análise de experimentos: Testes, mapas de cores e análises dos dados.
     Curso da Formação: Data Science, Por #Alura
 
-#### Conteúdo visto na AULA 03:
+#### Resumo da AULA 04:
 
 ###
-    - O significado de graus de liberdade;
+    - Atualizar hipóteses iniciais a medida que novas informações são coletadas;
 
-    - Calcular os graus de liberdade dos resíduos;
+    - Propor novos modelos para melhor representar a realidade de um experimento;
 
-    - Fazer a análise de significância estatística dos parâmetros do modelo;
+    - Analisar um gráfico de predito por observado com a finalidade de inferir a
+      qualidade da representatividade de um modelo;
 
-    - Construir e interpretar um gráfico normalizado de pareto.
+    - Relacionar o coeficiente de correlação R2 com a qualidade do ajuste e com os
+      resultados apresentados por um gráfico de preditos por observados.
