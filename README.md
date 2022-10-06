@@ -1,17 +1,15 @@
 ###  Análise de experimentos: Testes, mapas de cores e análises dos dados.
     Curso da Formação: Data Science, Por #Alura
 
-#### Anotações referentes a AULA 01:
+#### Rseumo da AULA 02:
 
 ###
-    - Discernir quais fontes são válidas para a coleta de dados;
+    - Inserir os dados experimentais num Data Frame do pandas;
 
-    - As vantagens de se realizar um experimento;
+    - Usar a biblioteca pyDOE2 para gerar planejamentos fatoriais;    
 
-    - Definir os objetivos do experimento, assim como identificar as variáveis manipuláveis e a resposta do experimento;
+    - Fazer análises gráficas preliminares do experimento;
 
-    - A importância de se planejar um experimento;
+    - Propor um modelo estatístico;
 
-    - Como limitar a área de experimentação;
-
-    - Planejamentos fatoriais.
+    - Ajustar o modelo estatístico aos dados experimentais usando o StatsModel.
