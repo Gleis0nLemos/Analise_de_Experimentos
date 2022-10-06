@@ -1,15 +1,13 @@
 ###  Análise de experimentos: Testes, mapas de cores e análises dos dados.
     Curso da Formação: Data Science, Por #Alura
 
-#### Rseumo da AULA 02:
+#### Conteúdo visto na AULA 03:
 
 ###
-    - Inserir os dados experimentais num Data Frame do pandas;
+    - O significado de graus de liberdade;
 
-    - Usar a biblioteca pyDOE2 para gerar planejamentos fatoriais;    
+    - Calcular os graus de liberdade dos resíduos;
 
-    - Fazer análises gráficas preliminares do experimento;
+    - Fazer a análise de significância estatística dos parâmetros do modelo;
 
-    - Propor um modelo estatístico;
-
-    - Ajustar o modelo estatístico aos dados experimentais usando o StatsModel.
+    - Construir e interpretar um gráfico normalizado de pareto.
